@@ -2,7 +2,7 @@ import data from "../utils/data";
 
 
 
-function AllCards(){
+function AllCards({data}){
 
 
     return (
